@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Home work",
+      "day": "Feb 5th at 2:30PM",
+      "remainder": true
+    },
+    {
+      "text": "ExerciseBro",
+      "day": "Tomorrow 6:00AM",
+      "remainder": true,
+      "id": 2
+    },
+    {
+      "text": "Music",
+      "day": "Tuesday,Sept 5th",
+      "remainder": false,
+      "id": 3
+    }
+  ]
+}
